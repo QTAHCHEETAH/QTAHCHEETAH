@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 #
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?QTAHCHEETAH=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QTAHCHEETAH&theme=dark&show_icons=true)
