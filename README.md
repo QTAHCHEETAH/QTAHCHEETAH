@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br><br> 
  
  
-| <a href="https://github.com/orol116/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=orol116&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/orol116/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orol116&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/QTAHCHEETAH/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QTAHCHEETAH&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/QTAHCHEETAH/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QTAHCHEETAH&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br><br>
