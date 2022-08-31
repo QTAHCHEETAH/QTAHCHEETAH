@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/eclipse-blue?style=for-the-badge&logo=eclipse&logoColor=white"/><br><br> 
 
-<br><hr><br>
 
  ### 📗 Front Experience 📗 
  <br>
@@ -20,6 +19,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <br>
 <br><br> 
  
+ <br><hr><br>
  
 | <a href="https://github.com/QTAHCHEETAH/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=QTAHCHEETAH&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/QTAHCHEETAH/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QTAHCHEETAH&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
